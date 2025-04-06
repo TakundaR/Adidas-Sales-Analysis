@@ -12,6 +12,10 @@ April 2025
 📝 Conclusion – Summary & business recommendations
 📩 Contact Information
 
+## 📊 Power BI Dashboard
+
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGY0Y2U5NWUtMjI4OS00OTU2LWFkM2EtMDRmMjg0NDU4YjAzIiwidCI6IjRiMWI5MDhjLTU1ODItNDM3Ny1iYTA3LWEzNmQ2NWUzNDkzNCIsImMiOjh9)
+
 📖 Introduction
 
 🔹This report sales analysis report investigates the sales of Adidas USA for 2020 and 2021.
