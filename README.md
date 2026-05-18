@@ -1,6 +1,6 @@
 # Adidas-Sales-Analysis
 👤 Author
-Revive Takunda Kadere
+Revive Kadere
 
 📅 Date
 April 2025
